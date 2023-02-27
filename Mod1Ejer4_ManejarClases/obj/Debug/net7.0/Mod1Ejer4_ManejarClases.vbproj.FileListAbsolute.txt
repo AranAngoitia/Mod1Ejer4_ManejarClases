@@ -1,0 +1,15 @@
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\bin\Debug\net7.0\Mod1Ejer4_ManejarClases.exe
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\bin\Debug\net7.0\Mod1Ejer4_ManejarClases.deps.json
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\bin\Debug\net7.0\Mod1Ejer4_ManejarClases.runtimeconfig.json
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\bin\Debug\net7.0\Mod1Ejer4_ManejarClases.dll
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\bin\Debug\net7.0\Mod1Ejer4_ManejarClases.pdb
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.vbproj.AssemblyReference.cache
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.AssemblyInfoInputs.cache
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.AssemblyInfo.vb
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.vbproj.CoreCompileInputs.cache
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.dll
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\refint\Mod1Ejer4_ManejarClases.dll
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.pdb
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\Mod1Ejer4_ManejarClases.genruntimeconfig.cache
+C:\Users\aango\source\repos\Mod1Ejer4_ManejarClases\Mod1Ejer4_ManejarClases\obj\Debug\net7.0\ref\Mod1Ejer4_ManejarClases.dll
